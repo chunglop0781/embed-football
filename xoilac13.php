@@ -1,1 +1,1 @@
-https://cdn9.90phut.tv/add30bccea9eac6fcbf5f81566e0efbb06f02fdc/849a0c5635df4f4ebd0eeab554c44b17/1563754870/app_1_13e88/ch1/chunklist.m3u8
+https://cdn9.90phut.tv/add30bccea9eac6fcbf5f81566e0efbb06f02fdc/849a0c5635df4f4ebd0eeab554c44b17/1563754870/app_1_13e88/ch1/playlist.m3u8
